@@ -5,8 +5,8 @@
 #define IR_SEND_PIN       4
 //#include "PinDefinitionsAndMore.h"
 
-const char* ssid = "A0957F978755-2G";      // WiFiのSSID
-const char* password = "ftn4y7hen4sr6h";  // WiFiのパスワード
+const char* ssid = "yourSSID";      // WiFiのSSID
+const char* password = "yourPass";  // WiFiのパスワード
 
 const char* ntpServer = "pool.ntp.org";  // NTPサーバ
 const long  gmtOffset_sec = 9 * 3600;    // 日本の場合、GMT+9 (日本標準時)
