@@ -1,0 +1,23 @@
+○st7789
+sclk 18
+mosi 23
+dc 22
+rst 16
+miso -1(NC)
+cs=-1(NC)
+busy=-1(NC)
+<<spi_mode=3>>
+
+
+
+○IR
+send 4
+
+
+
+
+○keys 34
+
+
+
+
